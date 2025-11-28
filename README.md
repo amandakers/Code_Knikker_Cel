@@ -1,1 +1,1 @@
-Dit is de code dat is opgesteld voor het bedrijf hoppenbrouwers om aan de 
+This is a code to connect a camera of the Daheng Image company with Modbus TCP and
