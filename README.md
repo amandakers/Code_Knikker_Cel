@@ -1,3 +1,8 @@
+DEZE FILE MOET NOG BEWERKT WORDEN
+
+
+
+
 Dit is een code dat is aangemaakt voor de toevoeging van een CAT-camera aan de Knikker Cel van het bedrijf Hoppenbrouwers.
 
 De code bevat de Galaxy view Libraries van de uitgever Daheng Imaging.
