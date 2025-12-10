@@ -239,6 +239,10 @@ int main(int argc, char* argv[])
 			system("pause");
 			return 0;
 		}
+		
+pStream->SetAcqusitionBufferNumber(1);
+pStream->FlushQueue();
+		
 
 		//Select the default parameter group
 		//pRemoteControl->GetEnumFeature("UserSetSelector")->SetValue("Default");
@@ -376,3 +380,4 @@ int main(int argc, char* argv[])
 
 	return 0;
 }
+
